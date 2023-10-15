@@ -1,2 +1,2 @@
 # github-democlass
-Training c;ass repository
+Training class repository
